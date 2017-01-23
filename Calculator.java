@@ -22,4 +22,10 @@ public class Calculator{
       z = x + y;
       System.out.println("result: "+ z);
     }
+
+    //substraction
+    else if(op == 2){
+      z = x - y;
+      System.out.println("result: "+ z);
+    }
 }
