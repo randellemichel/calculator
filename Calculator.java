@@ -28,4 +28,10 @@ public class Calculator{
       z = x - y;
       System.out.println("result: "+ z);
     }
+
+    //multiplication
+    else if(op == 3){
+      z = x * y;
+      System.out.println("result: "+ z);
+    }
 }
