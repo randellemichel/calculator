@@ -34,5 +34,6 @@ public class Calculator{
       z = x * y;
       System.out.println("result: "+ z);
     }
+  
   }
 }
