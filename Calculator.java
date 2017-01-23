@@ -34,6 +34,10 @@ public class Calculator{
       z = x * y;
       System.out.println("result: "+ z);
     }
-  
+     //division
+    else if(op == 4){
+      z = x / y;
+      System.out.println("result: "+ z);
+    }
   }
 }
